@@ -3,9 +3,9 @@
 <ul id="articles">
 
 	<% @articles.each do |article| %>
-		<lil>
+		<li>
 			<%= link_to article.title, article_path(article), 
-			class: 'article_title', id: "article_#{article.id}" %>
+			class: "article_title", id: "article_#{article.id}" %>
 
 		</li>
 	<% end %>
