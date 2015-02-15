@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails project that I made for learning, studying the framework purpose.
 
-Things you may want to cover:
+This is a Blog that allows users to create articles and comments. 
+It also contains other functionalities such as:Tagging, Image attachment and Login authorization.
 
-* Ruby version
+The live verson of this rails app can be found at: https://evening-oasis-6475.herokuapp.com/
 
-* System dependencies
+You can login using the following ID: admin@example.com
+                                      admin
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
