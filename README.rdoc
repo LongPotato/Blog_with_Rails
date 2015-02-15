@@ -7,6 +7,7 @@ It also contains other functionalities such as:Tagging, Image attachment and Log
 
 The live verson of this rails app can be found at: https://evening-oasis-6475.herokuapp.com/
 
-You can login using the following ID: admin@example.com
+You can login using the following ID: 
+                                      admin@example.com
                                       admin
 
