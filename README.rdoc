@@ -2,7 +2,7 @@
 
 This is a Ruby on Rails project that I made for learning, studying the framework purpose.
 
-This is a Blog that allows users to create articles and comments. 
+This blog allows users to create articles and comments. 
 It contains some other functionalities such as: Article tagging, Image attachment and Login authorization.
 
 The live verson of this rails app can be found at: https://evening-oasis-6475.herokuapp.com/
