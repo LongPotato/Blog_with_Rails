@@ -3,10 +3,15 @@
 This is a project that I made while learning the basic of Ruby on Rails. 
 I followed the Blogger 2 tutorial on Jumpstart Lab.
 
-This blog allows users to create articles and comments. 
-It contains some other functionalities such as: Article tagging, Image attachment and Login authorization.
+=== Functionalities:
 
-The live verson of this rails app can be found at: https://evening-oasis-6475.herokuapp.com/
+* Create articles.
+* Comment in article.
+* Article tagging 
+* Image attachment
+* Login authorization.
+
+The live verson of this rails app can be found at {heroku}[https://evening-oasis-6475.herokuapp.com/]
 
 You can login using the following ID: 
                                       admin@example.com
